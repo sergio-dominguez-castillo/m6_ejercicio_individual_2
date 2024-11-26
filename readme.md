@@ -11,5 +11,7 @@ El Backend de la aplicación ya se encuentra creado, es hora de ir por el aparta
 5. Además de sus datos, cada contacto debe tener un botón de “Editar” y “Eliminar”.
 - Por temas visuales, te recomiendo gestionar dichos botones con iconos.
 - El botón de eliminar directamente borra el contacto, mientras que el botón de editar debe redireccionar a otra vista para hacer el cambio pertinente de los datos.
+Nota: esto lo cambie, para eliminar se debe desplazar el registro (implemente swipe) y para editar, se debe dar clic sobre el registro.
+  
 6. No olvides que en el Home la url de cada contacto debe visualizarse correctamente como una imagen.
 7. Una vez tengas listos los nuevos cambios, actualiza tu repositorio de GitHub y sube el enlace al nodo por medio de un archivo .txt
